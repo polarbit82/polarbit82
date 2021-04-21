@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @polarbit82
+- 👀 I’m interested in frontend development.
+- 🌱 I’m currently learning software development.
+- I will update here as soon as possible ...
